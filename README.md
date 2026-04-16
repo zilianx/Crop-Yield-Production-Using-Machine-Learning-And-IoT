@@ -69,7 +69,7 @@ python main.py
 ---
 
 ## 👨‍💻 Contributors
-- **Antara Chakravorthy (22BCB0020)**  
+- **Ayush Gupta(22BCE0927)**  
 - **Umar Khan (22BCE0501)**  
 - **Harshini Sunkara (22BCE2373)**
 - **Soumya ajmera (22BCT0005)**
